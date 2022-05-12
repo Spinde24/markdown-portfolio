@@ -1,5 +1,5 @@
-Football
-Sneakers 
-Rome 
-Food 
-Coca Cola
+- Football
+- Sneakers 
+- Rome 
+- Food 
+- Coca Cola
